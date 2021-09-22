@@ -1,10 +1,3 @@
-# Requirements
-
-1. Python 3.7.9
-2. Numpy 1.19.2
-3. OpenCV 3.4.2.16
-4. Matplotlib 3.3.4
-
 # How to run the code
 
 1. Make sure that the data folders from the given link are in the same folders as the code: https://drive.google.com/drive/folders/1fuWVEobLQJdoMRVyWhdj3cLas4_ywhrl?usp=sharing
@@ -19,13 +12,10 @@ Lines 13, 14, 15, 16, 376, 377
 Umbrella:
 Lines 19, 20, 21, 22, 378, 379
 
-# Libraries installed
-
-1. Numpy
-2. OpenCV
-3. Matplot
-
 # Software Recommended
 
-1. PyCharm as IDE
-2. Python 3.7
+1. Python 3.7.9
+2. Numpy 1.19.2
+3. OpenCV 3.4.2.16
+4. Matplotlib 3.3.4
+5. PyCharm as IDE
