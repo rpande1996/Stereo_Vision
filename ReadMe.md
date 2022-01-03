@@ -51,11 +51,17 @@ SOFTWARE.
 
 ## Demo
 
+- Cycle
+
 ![Cycle](https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Cycle/Merged_Cycle.png)
+
+- Flowers
 
 ![Flowers](https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Flowers/Merged_Flowers.png)
 
-1[Umbrella](https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Umbrella/Merged_Umbrella.png)
+- Umbrella
+
+![Umbrella](https://github.com/rpande1996/Stereo_Vision/blob/main/media/output/Umbrella/Merged_Umbrella.png)
 
 ## Build
 
